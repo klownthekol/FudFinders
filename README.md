@@ -45,10 +45,6 @@ fudfinder/
 
 Coming soon.
 
-## Roadmap
-
-See [ROADMAP.md](./ROADMAP.md) for the 16-week development plan.
-
 ## Author
 
 Built by [@klownthekol](https://github.com/klownthekol)
